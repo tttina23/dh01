@@ -1,0 +1,10 @@
+How to create a website.
+This is a h2 tag
+It's easy and fun.
+Bold text
+Italic text
+Underlined text
+Subscript text
+Superscript text
+http://www.cuhk.edu.hk/english/images/cuhk_logo_2x.png
+Link to CUHK.
